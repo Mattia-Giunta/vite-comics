@@ -85,6 +85,7 @@ figure{
 section{
   height: 150px;
   background-color: #0282F9;
+  
 
   ul{
     width: 70%;
