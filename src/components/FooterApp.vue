@@ -11,8 +11,7 @@ export default {
 
 <template>
 
-  <h1>Hi I'm component</h1>
-
+  
 </template>
 
 
